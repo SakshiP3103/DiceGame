@@ -1,1 +1,1 @@
-# DiceGame
+# JS_Projects
